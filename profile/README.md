@@ -1,12 +1,19 @@
-## Hi there 👋
+# Amaya web framework
 
-<!--
+![Logo](https://github.com/amayaframework/amaya-core/raw/main/images/logo.png)
 
-**Here are some ideas to get you started:**
+## What is it?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Amaya is a lightweight and modular asynchronous web framework, delivered in parts in several jar packages.
+
+## What can it do?
+
+By default, any build of the framework created on the basis of the amaya-core-api should be able to handle user controllers, support configurability, log events that occur, and run an http server with the specified parameters.
+
+## Advantages of the framework
+
+This framework is designed not only taking into account the mistakes already made, but also with a fresh look at what some things should be.
+
+<p>Main features:</p>
+
+* Using "controllers" as the main interface for user interaction
